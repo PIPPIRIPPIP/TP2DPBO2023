@@ -4,6 +4,8 @@
 Saya Ayesha Ali Firdaus NIM 2101990 mengerjakan TP 2 dalam mata kuliah Desain dan Pemrograman Berorientasi Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain Program
+![rml](https://user-images.githubusercontent.com/87317233/231499440-81417b41-d281-4672-ba55-0237a2391d26.png)
+
 Program yang dibuat ini terdiri dari enam kelas. Kelas tersebut diantaranya:
 - `dbConnection` : Kelas ini berfungsi untuk menghubungkan program kita ke database yang sudah dibuat. Di dalam kelas ini terdapat metode-metode untuk menghubungkan ke databse dan metode untuk menjalankan query mysql.
 - `Login` : Kelas ini merupakan sebuah frame yang berfungsi sebagai gerbang masuk ke dalam program utama. kelas ini terhubung ke database untuk dapat menyimpan data user. Pada frame ini terdapat tombol register untuk dapat membuat akun dan berpindah ke frame `Register`.
